@@ -1,0 +1,32 @@
+<templateSet group="AndroidComments">
+  <template name="screen" value="// SCREEN: $author$ $date$ $todo$" description="adds // SCREEN" toReformat="true" toShortenFQNames="true">
+    <variable name="author" expression="user()" defaultValue="" alwaysStopAt="false" />
+    <variable name="date" expression="date(&quot;yyyy/MM/dd HH:mm:ss&quot;)" defaultValue="" alwaysStopAt="false" />
+    <variable name="todo" expression="" defaultValue="&quot;隐藏/屏蔽&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="bugfix" value="// BUGFIX: $author$ $date$ $todo$ " description="add // bugfix" toReformat="false" toShortenFQNames="true">
+    <variable name="author" expression="user()" defaultValue="" alwaysStopAt="false" />
+    <variable name="date" expression="date(&quot;yyyy/MM/dd HH:mm:ss&quot;)" defaultValue="" alwaysStopAt="false" />
+    <variable name="todo" expression="" defaultValue="bug修复" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="todo" value="// TODO: $author$ $date$ $todo$" description="adds // TODO" toReformat="true" toShortenFQNames="true">
+    <variable name="date" expression="date(&quot;yyyy/MM/dd HH:mm:ss&quot;)" defaultValue="" alwaysStopAt="false" />
+    <variable name="todo" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="author" expression="user()" defaultValue="" alwaysStopAt="false" />
+    <context />
+  </template>
+  <template name="refactor" value="// REFACTOR: $author$ $date$ $todo$" description="adds // REFACTOR" toReformat="true" toShortenFQNames="true">
+    <variable name="author" expression="user()" defaultValue="" alwaysStopAt="false" />
+    <variable name="date" expression="date(yyyy/MM/dd HH:mm:ss)" defaultValue="" alwaysStopAt="false" />
+    <variable name="todo" expression="" defaultValue="重构代码" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
