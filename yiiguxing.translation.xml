@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="678" />
     <option name="newTranslationDialogY" value="269" />
     <histories>
+      <item value="fill Data" />
       <item value="get Ready To Approve Order List" />
       <item value="待我审批&#10;" />
       <item value="待w审批&#10;" />
@@ -54,7 +55,6 @@
       <item value="橘色&#10;" />
       <item value="橘色" />
       <item value="ju'se" />
-      <item value="ju's" />
     </histories>
     <option name="languageScores">
       <map>
