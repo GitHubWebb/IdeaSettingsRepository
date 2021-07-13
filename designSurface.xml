@@ -2,7 +2,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="../../../../../layout/custom_preview.xml" value="0.4171875" />
+        <entry key="../../../../../layout/custom_preview.xml" value="0.4107692307692308" />
         <entry key="../../../.gradle/caches/transforms-2/files-2.1/257e62fd4656df427f6017a60a603f5c/jetified-frameLibraryWidget-2.0.30-androidx/res/layout/fl_activity_mult_image_select.xml" value="0.10989583333333333" />
         <entry key="../../../.gradle/caches/transforms-2/files-2.1/38b0e86079f707da70f5e847e1526f49/jetified-im_kit-4.0.3.14/res/layout/rc_ac_file_manager.xml" value="0.25" />
         <entry key="../../../.gradle/caches/transforms-2/files-2.1/81d5aaaaa45fabd472b833385c6a46a6/jetified-frameLibraryJpush-0.0.6-SNAPSHOT/res/layout/fl_activity_mult_image_select.xml" value="0.11018518518518519" />
@@ -23,6 +23,7 @@
         <entry key="app/src/main/res/drawable/btn_blue.xml" value="0.16574074074074074" />
         <entry key="app/src/main/res/drawable/common_button.xml" value="0.40572916666666664" />
         <entry key="app/src/main/res/drawable/defaul_pic_rec_bg.xml" value="0.40572916666666664" />
+        <entry key="app/src/main/res/drawable/hotel_search_bg.xml" value="0.3994871794871795" />
         <entry key="app/src/main/res/drawable/my_complete_info_bg.xml" value="0.3411458333333333" />
         <entry key="app/src/main/res/drawable/radiobtn_bottom_line_click.xml" value="0.3333333333333333" />
         <entry key="app/src/main/res/drawable/red_round_bg.xml" value="0.3333333333333333" />
@@ -55,6 +56,7 @@
         <entry key="app/src/main/res/layout/activity_msg_current.xml" value="0.3182291666666667" />
         <entry key="app/src/main/res/layout/activity_msg_unit.xml" value="0.3182291666666667" />
         <entry key="app/src/main/res/layout/activity_my_notifi_info.xml" value="0.11510416666666666" />
+        <entry key="app/src/main/res/layout/activity_no_data_approve.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_pic_verify_alert_dialog.xml" value="0.11510416666666666" />
         <entry key="app/src/main/res/layout/activity_poverty_home.xml" value="0.296875" />
         <entry key="app/src/main/res/layout/activity_push_msg.xml" value="0.3182291666666667" />
@@ -73,6 +75,7 @@
         <entry key="app/src/main/res/layout/activity_travel_business_apply_order_to_approve.xml" value="0.3182291666666667" />
         <entry key="app/src/main/res/layout/activity_travel_business_main_white.xml" value="0.296875" />
         <entry key="app/src/main/res/layout/activity_travel_business_order_read.xml" value="0.390625" />
+        <entry key="app/src/main/res/layout/activity_travel_business_order_read_n.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_trip_only_list.xml" value="0.15833333333333333" />
         <entry key="app/src/main/res/layout/activity_unit_msg_info.xml" value="0.3182291666666667" />
         <entry key="app/src/main/res/layout/activity_url_list.xml" value="0.296875" />
@@ -102,6 +105,7 @@
         <entry key="app/src/main/res/layout/frgmt_first_login_password.xml" value="0.13333333333333333" />
         <entry key="app/src/main/res/layout/frgmt_first_reg.xml" value="0.5" />
         <entry key="app/src/main/res/layout/frgmt_home_main.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/frgmt_home_phone.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/frgmt_home_profile.xml" value="0.11510416666666666" />
         <entry key="app/src/main/res/layout/frgmt_my_center.xml" value="0.3812664907651715" />
         <entry key="app/src/main/res/layout/frgmt_my_follow_info.xml" value="0.11510416666666666" />
