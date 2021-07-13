@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="678" />
     <option name="newTranslationDialogY" value="269" />
     <histories>
+      <item value="待我审批&#10;" />
+      <item value="待w审批&#10;" />
+      <item value="待审批&#10;" />
+      <item value="d" />
       <item value="space&#10;" />
       <item value="space" />
       <item value="FAQ Category Model" />
@@ -51,10 +55,6 @@
       <item value="ju'se" />
       <item value="ju's" />
       <item value="j" />
-      <item value="切换单位&#10;" />
-      <item value="Yeego App Yeego App" />
-      <item value="组装&#10;" />
-      <item value="组合&#10;" />
     </histories>
     <option name="languageScores">
       <map>
@@ -68,6 +68,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1625627689633" />
+    <option name="lastTrimTime" value="1626140249705" />
   </component>
 </application>
