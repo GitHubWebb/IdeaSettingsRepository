@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="678" />
     <option name="newTranslationDialogY" value="269" />
     <histories>
+      <item value="排序&#10;" />
+      <item value="p" />
+      <item value="order Num" />
       <item value="Travel Apply Ready To Approve Order List Bean New" />
       <item value="office To Trip" />
       <item value="fill Data" />
@@ -50,11 +53,8 @@
       <item value="预留yun'y" />
       <item value="voucher" />
       <item value="票据夹&#10;" />
-      <item value="p" />
       <item value="报销记录" />
       <item value="报销记录&#10;" />
-      <item value="记录&#10;" />
-      <item value="橘色&#10;" />
     </histories>
     <option name="languageScores">
       <map>
