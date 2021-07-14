@@ -89,6 +89,7 @@
         <entry key="app/src/main/res/layout/custom_error_view.xml" value="0.23229166666666667" />
         <entry key="app/src/main/res/layout/custom_issue_children_view.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/custom_issue_groupview.xml" value="0.390625" />
+        <entry key="app/src/main/res/layout/custom_issue_search_children_view.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/custom_loading_view.xml" value="0.23229166666666667" />
         <entry key="app/src/main/res/layout/custom_no_network_view.xml" value="0.11510416666666666" />
         <entry key="app/src/main/res/layout/dialog_detal2.xml" value="0.3182291666666667" />
