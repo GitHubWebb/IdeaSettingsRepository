@@ -48,7 +48,7 @@
         <entry key="app/src/main/res/layout/activity_emergency_green.xml" value="0.125" />
         <entry key="app/src/main/res/layout/activity_feedback_list.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_fingerprint_setting.xml" value="0.3182291666666667" />
-        <entry key="app/src/main/res/layout/activity_home_msg.xml" value="0.3182291666666667" />
+        <entry key="app/src/main/res/layout/activity_home_msg.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_homepage.xml" value="0.296875" />
         <entry key="app/src/main/res/layout/activity_item6.xml" value="0.3182291666666667" />
         <entry key="app/src/main/res/layout/activity_item_approve.xml" value="0.390625" />
@@ -83,6 +83,7 @@
         <entry key="app/src/main/res/layout/activity_travel_business_order_read_old.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_travel_search_aprrove_keyword.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_travel_select_progect.xml" value="0.296875" />
+        <entry key="app/src/main/res/layout/activity_trip_new.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_trip_only_list.xml" value="0.15833333333333333" />
         <entry key="app/src/main/res/layout/activity_unit_msg_info.xml" value="0.3182291666666667" />
         <entry key="app/src/main/res/layout/activity_url_list.xml" value="0.296875" />
