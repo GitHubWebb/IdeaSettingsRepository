@@ -56,13 +56,14 @@
         <entry key="app/src/main/res/layout/activity_item6.xml" value="0.3182291666666667" />
         <entry key="app/src/main/res/layout/activity_item_approve.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_item_approve_old.xml" value="0.390625" />
-        <entry key="app/src/main/res/layout/activity_list_refresh.xml" value="0.296875" />
+        <entry key="app/src/main/res/layout/activity_list_refresh.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.11510416666666666" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.14437689969604864" />
         <entry key="app/src/main/res/layout/activity_mall_home.xml" value="0.3182291666666667" />
         <entry key="app/src/main/res/layout/activity_msg_current.xml" value="0.3182291666666667" />
         <entry key="app/src/main/res/layout/activity_msg_unit.xml" value="0.3182291666666667" />
         <entry key="app/src/main/res/layout/activity_my_notifi_info.xml" value="0.11510416666666666" />
+        <entry key="app/src/main/res/layout/activity_no_data.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_no_data_approve.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_pic_verify_alert_dialog.xml" value="0.11510416666666666" />
         <entry key="app/src/main/res/layout/activity_poverty_home.xml" value="0.296875" />
