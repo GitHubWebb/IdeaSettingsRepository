@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="269" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="following JDK l" />
+      <item value="1:23 下午 Android Studio is using the following JDK location when running Gradle:" />
       <item value="collapsed" />
       <item value="calc Indicator Rect" />
       <item value="Found item Attrtl_tab_left_padding more than one time" />
@@ -54,8 +56,6 @@
       <item value="单位发票抬头" />
       <item value="指纹登陆" />
       <item value="面容ID登陆" />
-      <item value="常用联系人" />
-      <item value="支付密码管理" />
     </histories>
     <option name="languageScores">
       <map>
