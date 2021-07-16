@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="269" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Make sure all annotation processors are incremental to improve your build speed." />
       <item value=" Minimum supported Gradle version is 6.5. Current version is 6.1.1" />
       <item value="following JDK l" />
       <item value="1:23 下午 Android Studio is using the following JDK location when running Gradle:" />
@@ -15,7 +16,6 @@
       <item value="TEXT BOLD NONE" />
       <item value="TEXT BOLD WHEN SELECT" />
       <item value="TEXT BOLD BOTH" />
-      <item value="Make sure all annotation processors are incremental to improve your build speed." />
       <item value="on Tab Reselect" />
       <item value="The row id of the child that was clicked" />
       <item value="remark" />
