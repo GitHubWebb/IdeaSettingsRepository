@@ -6,6 +6,12 @@
     <option name="newTranslationDialogY" value="269" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="审批状态&#10;&#10;" />
+      <item value="审批&#10;" />
+      <item value="审批申请&#10;" />
+      <item value="审批申请" />
+      <item value="审批shen'q" />
+      <item value="apply Order App Res List" />
       <item value="Generatel Approve Fragment" />
       <item value="Make sure all annotation processors are incremental to improve your build speed." />
       <item value=" Minimum supported Gradle version is 6.5. Current version is 6.1.1" />
@@ -50,12 +56,6 @@
       <item value="解答" />
       <item value="常见问题" />
       <item value="问题&#10;" />
-      <item value="客" />
-      <item value="客服" />
-      <item value="客服&#10;" />
-      <item value="is Hardware Detected" />
-      <item value="修改登陆密码" />
-      <item value="单位发票抬头" />
     </histories>
     <option name="languageScores">
       <map>
