@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="269" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Generatel Approve Fragment" />
       <item value="Make sure all annotation processors are incremental to improve your build speed." />
       <item value=" Minimum supported Gradle version is 6.5. Current version is 6.1.1" />
       <item value="following JDK l" />
@@ -55,7 +56,6 @@
       <item value="is Hardware Detected" />
       <item value="修改登陆密码" />
       <item value="单位发票抬头" />
-      <item value="指纹登陆" />
     </histories>
     <option name="languageScores">
       <map>
@@ -69,6 +69,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1626140249705" />
+    <option name="lastTrimTime" value="1626657058044" />
   </component>
 </application>
