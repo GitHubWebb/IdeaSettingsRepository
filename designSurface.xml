@@ -14,6 +14,7 @@
         <entry key="PolyvLiveUI/src/main/res/drawable/polyv_mic_phone_selector.xml" value="0.17592592592592593" />
         <entry key="PolyvLiveUI/src/main/res/layout/polyv_cloudclass_controller_land.xml" value="0.13518518518518519" />
         <entry key="PolyvLiveUI/src/main/res/layout/polyv_cloudclass_controller_port.xml" value="0.296875" />
+        <entry key="app/src/main/res/drawable/arp_conner_shape_bg_blue.xml" value="0.3994871794871795" />
         <entry key="app/src/main/res/drawable/bg_btn_f4f8ff_ecf3ff_radius_8_gradient_filling.xml" value="0.40572916666666664" />
         <entry key="app/src/main/res/drawable/bg_btn_fff6f3_ffece5_radius_8_gradient_filling.xml" value="0.40572916666666664" />
         <entry key="app/src/main/res/drawable/bg_btn_yellow_gray_radius_20_gradient_filling.xml" value="0.2675925925925926" />
@@ -22,6 +23,9 @@
         <entry key="app/src/main/res/drawable/bg_radius_2_btn_d8d8d8_filling.xml" value="0.40572916666666664" />
         <entry key="app/src/main/res/drawable/bg_radius_5_btn_white_filling.xml" value="0.3411458333333333" />
         <entry key="app/src/main/res/drawable/bg_radius_5_shadow_btn_white_filling.xml" value="0.3411458333333333" />
+        <entry key="app/src/main/res/drawable/bg_radius_6_btn_e5e5e5.xml" value="0.3994871794871795" />
+        <entry key="app/src/main/res/drawable/bg_radius_6_btn_e5e5e5_stroke.xml" value="0.3994871794871795" />
+        <entry key="app/src/main/res/drawable/bg_radius_6_btn_eaf4fe.xml" value="0.3994871794871795" />
         <entry key="app/src/main/res/drawable/bg_radius_8_btn_f6f6f6_filling.xml" value="0.40572916666666664" />
         <entry key="app/src/main/res/drawable/bg_radius_8_shadow_btn_white_filling.xml" value="0.40572916666666664" />
         <entry key="app/src/main/res/drawable/bg_radius_btn_fe4827_filling.xml" value="0.40572916666666664" />
