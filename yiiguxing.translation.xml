@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="269" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="global" />
+      <item value="禁用全局网络&#10;" />
+      <item value="禁用全局" />
+      <item value="禁用quan'ju" />
       <item value="issue&#10;" />
       <item value="issue" />
       <item value="是问题页面" />
@@ -52,10 +56,6 @@
       <item value="get Ready To Approve Order List" />
       <item value="待我审批&#10;" />
       <item value="待w审批&#10;" />
-      <item value="待审批&#10;" />
-      <item value="space&#10;" />
-      <item value="space" />
-      <item value="FAQ Category Model" />
     </histories>
     <option name="languageScores">
       <map>
