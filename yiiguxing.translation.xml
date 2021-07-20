@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="269" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="禁用&#10;" />
+      <item value="Statue" />
       <item value="global" />
       <item value="禁用全局网络&#10;" />
       <item value="禁用全局" />
@@ -54,8 +56,6 @@
       <item value="office To Trip" />
       <item value="fill Data" />
       <item value="get Ready To Approve Order List" />
-      <item value="待我审批&#10;" />
-      <item value="待w审批&#10;" />
     </histories>
     <option name="languageScores">
       <map>
