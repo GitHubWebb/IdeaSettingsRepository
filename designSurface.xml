@@ -33,6 +33,7 @@
         <entry key="app/src/main/res/drawable/common_button.xml" value="0.40572916666666664" />
         <entry key="app/src/main/res/drawable/defaul_pic_rec_bg.xml" value="0.40572916666666664" />
         <entry key="app/src/main/res/drawable/gray_return_arrow_click.xml" value="0.40572916666666664" />
+        <entry key="app/src/main/res/drawable/gray_stroke_blue_r_bg.xml" value="0.3994871794871795" />
         <entry key="app/src/main/res/drawable/hotel_search_bg.xml" value="0.3994871794871795" />
         <entry key="app/src/main/res/drawable/my_complete_info_bg.xml" value="0.3411458333333333" />
         <entry key="app/src/main/res/drawable/myorder_red_btn.xml" value="0.40572916666666664" />
@@ -120,7 +121,9 @@
         <entry key="app/src/main/res/layout/custom_loading_view.xml" value="0.23229166666666667" />
         <entry key="app/src/main/res/layout/custom_no_network_view.xml" value="0.11510416666666666" />
         <entry key="app/src/main/res/layout/dialog_detal2.xml" value="0.3182291666666667" />
+        <entry key="app/src/main/res/layout/dialog_no_card_reim_alert.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/dialog_progress_text_layout.xml" value="0.296875" />
+        <entry key="app/src/main/res/layout/dialog_ticket_repeat_alert.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/empty_view.xml" value="0.23229166666666667" />
         <entry key="app/src/main/res/layout/error_view.xml" value="0.23229166666666667" />
         <entry key="app/src/main/res/layout/fg_home_index_new.xml" value="0.38461538461538464" />
