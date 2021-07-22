@@ -52,6 +52,7 @@
         <entry key="app/src/main/res/layout/activity_add_other_company_staff.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_app_about.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_approved_data_select.xml" value="0.296875" />
+        <entry key="app/src/main/res/layout/activity_avatar.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_big_image.xml" value="0.3182291666666667" />
         <entry key="app/src/main/res/layout/activity_bus_home_page.xml" value="0.15833333333333333" />
         <entry key="app/src/main/res/layout/activity_channel.xml" value="0.11510416666666666" />
@@ -67,6 +68,7 @@
         <entry key="app/src/main/res/layout/activity_home_arp_account.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_home_msg.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_homepage.xml" value="0.38461538461538464" />
+        <entry key="app/src/main/res/layout/activity_image_select.xml" value="0.38461538461538464" />
         <entry key="app/src/main/res/layout/activity_item6.xml" value="0.3182291666666667" />
         <entry key="app/src/main/res/layout/activity_item_approve.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_item_approve_old.xml" value="0.390625" />
@@ -173,6 +175,7 @@
         <entry key="app/src/main/res/layout/item_section.xml" value="0.5" />
         <entry key="app/src/main/res/layout/item_video_doc_list.xml" value="0.23229166666666667" />
         <entry key="app/src/main/res/layout/item_video_doc_thumb.xml" value="0.2287179487179487" />
+        <entry key="app/src/main/res/layout/layout_camera_or_gallery.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/layout_car_empty_data.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/layout_home_load_resouse_error.xml" value="0.17864583333333334" />
         <entry key="app/src/main/res/layout/layout_hotel_detail_popwindow_roominfo_xy.xml" value="0.221875" />
