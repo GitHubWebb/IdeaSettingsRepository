@@ -42,6 +42,7 @@
         <entry key="app/src/main/res/drawable/radiobtn_bottom_line_click.xml" value="0.3333333333333333" />
         <entry key="app/src/main/res/drawable/red_round_bg.xml" value="0.3333333333333333" />
         <entry key="app/src/main/res/drawable/selector_eye.xml" value="0.3994871794871795" />
+        <entry key="app/src/main/res/drawable/selector_eye_pwd.xml" value="0.3994871794871795" />
         <entry key="app/src/main/res/drawable/shape_hotel_book.xml" value="0.3411458333333333" />
         <entry key="app/src/main/res/drawable/shape_video_thumb_bg.xml" value="0.24739583333333334" />
         <entry key="app/src/main/res/drawable/vc_del.xml" value="0.3994871794871795" />
@@ -158,7 +159,7 @@
         <entry key="app/src/main/res/layout/frgmt_my_follow_info.xml" value="0.11510416666666666" />
         <entry key="app/src/main/res/layout/frgmt_my_study.xml" value="0.5" />
         <entry key="app/src/main/res/layout/frgmt_normal_choose_job.xml" value="0.12545289855072464" />
-        <entry key="app/src/main/res/layout/include_eye_password.xml" value="0.22135416666666666" />
+        <entry key="app/src/main/res/layout/include_eye_password.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/include_first_password.xml" value="0.37407407407407406" />
         <entry key="app/src/main/res/layout/include_home_search.xml" value="0.11510416666666666" />
         <entry key="app/src/main/res/layout/include_line.xml" value="0.11510416666666666" />
