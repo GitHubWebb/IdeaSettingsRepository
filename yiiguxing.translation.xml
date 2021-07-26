@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="269" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Gender Picker Popup" />
+      <item value="Picker Gender Popup" />
       <item value="duration" />
       <item value="show As Drop Down" />
       <item value="show At Location" />
@@ -54,8 +56,6 @@
       <item value="apply Order App Res List" />
       <item value="Generatel Approve Fragment" />
       <item value="Make sure all annotation processors are incremental to improve your build speed." />
-      <item value=" Minimum supported Gradle version is 6.5. Current version is 6.1.1" />
-      <item value="following JDK l" />
     </histories>
     <option name="languageScores">
       <map>
