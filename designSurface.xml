@@ -101,6 +101,7 @@
         <entry key="app/src/main/res/layout/activity_my_notifi_info.xml" value="0.11510416666666666" />
         <entry key="app/src/main/res/layout/activity_no_data.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_no_data_approve.xml" value="0.390625" />
+        <entry key="app/src/main/res/layout/activity_passport_info.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_pic_verify_alert_dialog.xml" value="0.11510416666666666" />
         <entry key="app/src/main/res/layout/activity_poverty_home.xml" value="0.296875" />
         <entry key="app/src/main/res/layout/activity_public_account.xml" value="0.390625" />
@@ -176,6 +177,7 @@
         <entry key="app/src/main/res/layout/include_first_password.xml" value="0.37407407407407406" />
         <entry key="app/src/main/res/layout/include_home_search.xml" value="0.11510416666666666" />
         <entry key="app/src/main/res/layout/include_line.xml" value="0.11510416666666666" />
+        <entry key="app/src/main/res/layout/include_pickerview_topbar_old.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/include_section_item.xml" value="0.11510416666666666" />
         <entry key="app/src/main/res/layout/item_businessorder_current.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/item_choose_info.xml" value="0.1" />
@@ -213,6 +215,8 @@
         <entry key="app/src/main/res/layout/layout_remind_something.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/layout_title.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/layout_view_split.xml" value="0.390625" />
+        <entry key="app/src/main/res/layout/pickerview_time_old.xml" value="0.390625" />
+        <entry key="app/src/main/res/layout/pickerview_type_old.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/refresh_header.xml" value="0.296875" />
         <entry key="app/src/main/res/layout/refresh_listview_footer.xml" value="0.296875" />
         <entry key="app/src/main/res/layout/reim_info_item.xml" value="0.3182291666666667" />
