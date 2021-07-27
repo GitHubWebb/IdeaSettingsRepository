@@ -31,6 +31,7 @@
         <entry key="app/src/main/res/drawable/bg_radius_6_btn_e5e5e5_stroke.xml" value="0.3994871794871795" />
         <entry key="app/src/main/res/drawable/bg_radius_6_btn_eaf4fe.xml" value="0.3994871794871795" />
         <entry key="app/src/main/res/drawable/bg_radius_8_btn_007aff_filling.xml" value="0.4046875" />
+        <entry key="app/src/main/res/drawable/bg_radius_8_btn_f2f2f2_filling.xml" value="0.4046875" />
         <entry key="app/src/main/res/drawable/bg_radius_8_btn_f6f6f6_filling.xml" value="0.40572916666666664" />
         <entry key="app/src/main/res/drawable/bg_radius_8_shadow_btn_white_filling.xml" value="0.40572916666666664" />
         <entry key="app/src/main/res/drawable/bg_radius_btn_fe4827_filling.xml" value="0.40572916666666664" />
@@ -93,7 +94,7 @@
         <entry key="app/src/main/res/layout/activity_item6.xml" value="0.3182291666666667" />
         <entry key="app/src/main/res/layout/activity_item_approve.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_item_approve_old.xml" value="0.390625" />
-        <entry key="app/src/main/res/layout/activity_list.xml" value="0.390625" />
+        <entry key="app/src/main/res/layout/activity_list.xml" value="0.23222060957910015" />
         <entry key="app/src/main/res/layout/activity_list_refresh.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_login_change_unit.xml" value="0.390625" />
