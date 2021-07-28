@@ -53,6 +53,7 @@
         <entry key="app/src/main/res/drawable/radiobtn_bottom_line_click.xml" value="0.3333333333333333" />
         <entry key="app/src/main/res/drawable/red_round_bg.xml" value="0.3333333333333333" />
         <entry key="app/src/main/res/drawable/round_red_bg_360.xml" value="0.40572916666666664" />
+        <entry key="app/src/main/res/drawable/search_bg.xml" value="0.23645833333333333" />
         <entry key="app/src/main/res/drawable/select_btn_del_account_selector.xml" value="0.4046875" />
         <entry key="app/src/main/res/drawable/selector_eye.xml" value="0.3994871794871795" />
         <entry key="app/src/main/res/drawable/selector_eye_pwd.xml" value="0.40572916666666664" />
@@ -125,6 +126,7 @@
         <entry key="app/src/main/res/layout/activity_reimbursement_ticket_auto_input.xml" value="0.18489583333333334" />
         <entry key="app/src/main/res/layout/activity_rv_preview.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_scan_annex_list.xml" value="0.221875" />
+        <entry key="app/src/main/res/layout/activity_select_branch_list.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_set_notice.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_toolbar_load_recycl.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_transparent_alert_dialog.xml" value="0.11510416666666666" />
@@ -206,6 +208,7 @@
         <entry key="app/src/main/res/layout/item_receiving_address_select.xml" value="0.15833333333333333" />
         <entry key="app/src/main/res/layout/item_recent_study.xml" value="0.11510416666666666" />
         <entry key="app/src/main/res/layout/item_section.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/item_select_branch.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/item_video_doc_list.xml" value="0.23229166666666667" />
         <entry key="app/src/main/res/layout/item_video_doc_thumb.xml" value="0.2287179487179487" />
         <entry key="app/src/main/res/layout/layout_camera_or_gallery.xml" value="0.390625" />
