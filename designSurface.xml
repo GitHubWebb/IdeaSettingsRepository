@@ -43,6 +43,7 @@
         <entry key="app/src/main/res/drawable/check_del_account_selector.xml" value="0.4046875" />
         <entry key="app/src/main/res/drawable/common_button.xml" value="0.40572916666666664" />
         <entry key="app/src/main/res/drawable/defaul_pic_rec_bg.xml" value="0.40572916666666664" />
+        <entry key="app/src/main/res/drawable/ededed_solid_smallcorner.xml" value="0.40572916666666664" />
         <entry key="app/src/main/res/drawable/gray_return_arrow_click.xml" value="0.40572916666666664" />
         <entry key="app/src/main/res/drawable/gray_stroke_blue_r_bg.xml" value="0.3994871794871795" />
         <entry key="app/src/main/res/drawable/hotel_coupon_choose_selector.xml" value="0.40572916666666664" />
@@ -80,6 +81,7 @@
         <entry key="app/src/main/res/layout/activity_children_info_layout.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_choose_unit_alert_dialog.xml" value="0.2287179487179487" />
         <entry key="app/src/main/res/layout/activity_choose_user_type.xml" value="0.390625" />
+        <entry key="app/src/main/res/layout/activity_complete_info_city_list.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_complete_personal_info.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_complete_temp_personal_info.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_custom_issue_categories.xml" value="0.390625" />
@@ -94,7 +96,7 @@
         <entry key="app/src/main/res/layout/activity_item6.xml" value="0.3182291666666667" />
         <entry key="app/src/main/res/layout/activity_item_approve.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_item_approve_old.xml" value="0.390625" />
-        <entry key="app/src/main/res/layout/activity_list.xml" value="0.23222060957910015" />
+        <entry key="app/src/main/res/layout/activity_list.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_list_refresh.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_login_change_unit.xml" value="0.390625" />
@@ -112,6 +114,7 @@
         <entry key="app/src/main/res/layout/activity_push_msg.xml" value="0.3182291666666667" />
         <entry key="app/src/main/res/layout/activity_push_msg_item.xml" value="0.3182291666666667" />
         <entry key="app/src/main/res/layout/activity_quick_receiving_address.xml" value="0.15833333333333333" />
+        <entry key="app/src/main/res/layout/activity_rank_list.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_reim_day.xml" value="0.3182291666666667" />
         <entry key="app/src/main/res/layout/activity_reim_month.xml" value="0.296875" />
         <entry key="app/src/main/res/layout/activity_reim_order_detail.xml" value="0.390625" />
@@ -198,6 +201,8 @@
         <entry key="app/src/main/res/layout/item_notifi_comment.xml" value="0.2388888888888889" />
         <entry key="app/src/main/res/layout/item_person_feature_module.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/item_poverty_list.xml" value="0.296875" />
+        <entry key="app/src/main/res/layout/item_rank_child.xml" value="0.390625" />
+        <entry key="app/src/main/res/layout/item_rank_group.xml" value="0.6831725831393817" />
         <entry key="app/src/main/res/layout/item_receiving_address_select.xml" value="0.15833333333333333" />
         <entry key="app/src/main/res/layout/item_recent_study.xml" value="0.11510416666666666" />
         <entry key="app/src/main/res/layout/item_section.xml" value="0.5" />
