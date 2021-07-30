@@ -139,6 +139,7 @@
         <entry key="app/src/main/res/layout/activity_reimbursement_submit_order.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_reimbursement_submit_order_new.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_reimbursement_ticket_auto_input.xml" value="0.18489583333333334" />
+        <entry key="app/src/main/res/layout/activity_room_live.xml" value="0.2657407407407407" />
         <entry key="app/src/main/res/layout/activity_rv_preview.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_scan_annex_list.xml" value="0.221875" />
         <entry key="app/src/main/res/layout/activity_select_branch_list.xml" value="0.390625" />
@@ -186,7 +187,7 @@
         <entry key="app/src/main/res/layout/frgmt_account_info.xml" value="0.5" />
         <entry key="app/src/main/res/layout/frgmt_bind_account.xml" value="0.2287179487179487" />
         <entry key="app/src/main/res/layout/frgmt_cs_answers.xml" value="0.390625" />
-        <entry key="app/src/main/res/layout/frgmt_first_login.xml" value="0.13333333333333333" />
+        <entry key="app/src/main/res/layout/frgmt_first_login.xml" value="0.2657407407407407" />
         <entry key="app/src/main/res/layout/frgmt_first_login_authcode.xml" value="0.5" />
         <entry key="app/src/main/res/layout/frgmt_first_login_password.xml" value="0.37407407407407406" />
         <entry key="app/src/main/res/layout/frgmt_first_reg.xml" value="0.5" />
@@ -262,6 +263,7 @@
         <entry key="app/src/main/res/layout/title_view.xml" value="0.11510416666666666" />
         <entry key="app/src/main/res/layout/toolbar_text.xml" value="0.11510416666666666" />
         <entry key="app/src/main/res/layout/user_check_sity_state_popview_layout.xml" value="0.296875" />
+        <entry key="app/src/main/res/layout/view_page_live_qa.xml" value="0.296875" />
         <entry key="app/src/main/res/menu/menu_light.xml" value="0.23229166666666667" />
         <entry key="app/src/main/res/menu/menu_niandu.xml" value="0.2287179487179487" />
         <entry key="app/src/main/res/menu/menu_ok.xml" value="0.23229166666666667" />
