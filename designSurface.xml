@@ -61,6 +61,7 @@
         <entry key="app/src/main/res/drawable/select_btn_del_account_selector.xml" value="0.4046875" />
         <entry key="app/src/main/res/drawable/selector_eye.xml" value="0.3994871794871795" />
         <entry key="app/src/main/res/drawable/selector_eye_pwd.xml" value="0.40572916666666664" />
+        <entry key="app/src/main/res/drawable/shap_round.xml" value="0.40572916666666664" />
         <entry key="app/src/main/res/drawable/shape_hotel_book.xml" value="0.3411458333333333" />
         <entry key="app/src/main/res/drawable/shape_video_thumb_bg.xml" value="0.24739583333333334" />
         <entry key="app/src/main/res/drawable/vc_del.xml" value="0.40572916666666664" />
@@ -131,6 +132,7 @@
         <entry key="app/src/main/res/layout/activity_reim_order_detail.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_reim_order_list.xml" value="0.3182291666666667" />
         <entry key="app/src/main/res/layout/activity_reimbursement_apply_order_check.xml" value="0.390625" />
+        <entry key="app/src/main/res/layout/activity_reimbursement_edit_image.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_reimbursement_list.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_reimbursement_submit_order.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_reimbursement_submit_order_new.xml" value="0.390625" />
