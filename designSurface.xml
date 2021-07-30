@@ -97,6 +97,7 @@
         <entry key="app/src/main/res/layout/activity_emergency_green.xml" value="0.125" />
         <entry key="app/src/main/res/layout/activity_feedback_list.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_fingerprint_setting.xml" value="0.3182291666666667" />
+        <entry key="app/src/main/res/layout/activity_finish_list.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_home_arp_account.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_home_msg.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_home_myorder.xml" value="0.390625" />
