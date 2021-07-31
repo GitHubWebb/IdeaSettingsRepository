@@ -141,6 +141,7 @@
         <entry key="app/src/main/res/layout/activity_reimbursement_submit_order_new.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_reimbursement_ticket_auto_input.xml" value="0.18489583333333334" />
         <entry key="app/src/main/res/layout/activity_room_live.xml" value="0.2657407407407407" />
+        <entry key="app/src/main/res/layout/activity_room_video.xml" value="0.159375" />
         <entry key="app/src/main/res/layout/activity_rv_preview.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_scan_annex_list.xml" value="0.221875" />
         <entry key="app/src/main/res/layout/activity_select_branch_list.xml" value="0.390625" />
