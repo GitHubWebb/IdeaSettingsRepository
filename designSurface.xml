@@ -268,6 +268,8 @@
         <entry key="app/src/main/res/menu/menu_niandu.xml" value="0.2287179487179487" />
         <entry key="app/src/main/res/menu/menu_ok.xml" value="0.23229166666666667" />
         <entry key="app/src/main/res/menu/menu_two.xml" value="0.23229166666666667" />
+        <entry key="ccvideo/src/main/res/layout/cc_pop_vote_class_layout.xml" value="0.25925925925925924" />
+        <entry key="ccvideo/src/main/res/layout/fragment1.xml" value="0.159375" />
         <entry key="frameLibraryWidget/src/main/res/layout/fl_activity_mult_image_select.xml" value="0.15833333333333333" />
         <entry key="frameLibraryWidget/src/main/res/layout/fl_list_item_image.xml" value="0.15833333333333333" />
         <entry key="heart_library/src/main/res/drawable/mm_title_back_btn.xml" value="0.1734375" />
