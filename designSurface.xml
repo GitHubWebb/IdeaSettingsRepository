@@ -94,6 +94,7 @@
         <entry key="app/src/main/res/layout/activity_complete_temp_personal_info.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_custom_issue_categories.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_data_select.xml" value="0.3182291666666667" />
+        <entry key="app/src/main/res/layout/activity_doc_live2.xml" value="0.159375" />
         <entry key="app/src/main/res/layout/activity_emergency_green.xml" value="0.125" />
         <entry key="app/src/main/res/layout/activity_feedback_list.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_fingerprint_setting.xml" value="0.3182291666666667" />
@@ -183,7 +184,9 @@
         <entry key="app/src/main/res/layout/fg_my.xml" value="0.38461538461538464" />
         <entry key="app/src/main/res/layout/fg_phone_list.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/fl_activity_mult_image_select.xml" value="0.11510416666666666" />
+        <entry key="app/src/main/res/layout/fragment_lecture.xml" value="0.159375" />
         <entry key="app/src/main/res/layout/fragment_reim_train_add.xml" value="0.296875" />
+        <entry key="app/src/main/res/layout/fragment_tiling.xml" value="0.159375" />
         <entry key="app/src/main/res/layout/frgmt_account_info.xml" value="0.5" />
         <entry key="app/src/main/res/layout/frgmt_bind_account.xml" value="0.2287179487179487" />
         <entry key="app/src/main/res/layout/frgmt_cs_answers.xml" value="0.390625" />
@@ -205,8 +208,11 @@
         <entry key="app/src/main/res/layout/include_pickerview_topbar_old.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/include_section_item.xml" value="0.11510416666666666" />
         <entry key="app/src/main/res/layout/item_businessorder_current.xml" value="0.390625" />
+        <entry key="app/src/main/res/layout/item_chat_img_layout.xml" value="0.159375" />
+        <entry key="app/src/main/res/layout/item_chat_layout.xml" value="0.159375" />
         <entry key="app/src/main/res/layout/item_choose_info.xml" value="0.1" />
         <entry key="app/src/main/res/layout/item_cos_detail_evaluate.xml" value="0.23229166666666667" />
+        <entry key="app/src/main/res/layout/item_doc_video_layout.xml" value="0.159375" />
         <entry key="app/src/main/res/layout/item_feed_back_up_img.xml" value="0.12228260869565218" />
         <entry key="app/src/main/res/layout/item_hospital_course_levelone.xml" value="0.11510416666666666" />
         <entry key="app/src/main/res/layout/item_hotel_home_page.xml" value="0.296875" />
@@ -229,6 +235,7 @@
         <entry key="app/src/main/res/layout/item_select_branch.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/item_video_doc_list.xml" value="0.23229166666666667" />
         <entry key="app/src/main/res/layout/item_video_doc_thumb.xml" value="0.2287179487179487" />
+        <entry key="app/src/main/res/layout/item_video_layout.xml" value="0.159375" />
         <entry key="app/src/main/res/layout/layout_camera_or_gallery.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/layout_car_empty_data.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/layout_car_rental_title.xml" value="0.390625" />
@@ -264,10 +271,12 @@
         <entry key="app/src/main/res/layout/toolbar_text.xml" value="0.11510416666666666" />
         <entry key="app/src/main/res/layout/user_check_sity_state_popview_layout.xml" value="0.296875" />
         <entry key="app/src/main/res/layout/view_page_live_qa.xml" value="0.296875" />
+        <entry key="app/src/main/res/layout/view_room_user_layout.xml" value="0.159375" />
         <entry key="app/src/main/res/menu/menu_light.xml" value="0.23229166666666667" />
         <entry key="app/src/main/res/menu/menu_niandu.xml" value="0.2287179487179487" />
         <entry key="app/src/main/res/menu/menu_ok.xml" value="0.23229166666666667" />
         <entry key="app/src/main/res/menu/menu_two.xml" value="0.23229166666666667" />
+        <entry key="ccvideo/src/main/res/layout/cc_frgmt_class_room_lecture.xml" value="0.296875" />
         <entry key="ccvideo/src/main/res/layout/cc_pop_vote_class_layout.xml" value="0.25925925925925924" />
         <entry key="ccvideo/src/main/res/layout/fragment1.xml" value="0.159375" />
         <entry key="frameLibraryWidget/src/main/res/layout/fl_activity_mult_image_select.xml" value="0.15833333333333333" />
