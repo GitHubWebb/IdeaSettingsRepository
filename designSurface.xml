@@ -13,6 +13,7 @@
         <entry key="../../../Library/Android/sdk/platforms/android-27/data/res/layout/preference_category.xml" value="0.390625" />
         <entry key="../../../Library/Android/sdk/platforms/android-27/data/res/layout/simple_gallery_item.xml" value="0.390625" />
         <entry key="FlycoTabLayout_Lib/src/main/res/layout/layout_tab.xml" value="0.121875" />
+        <entry key="FlycoTabLayout_Lib/src/main/res/layout/layout_tab_left.xml" value="0.390625" />
         <entry key="PolyvLiveUI/src/main/res/drawable/polyv_mic_phone_selector.xml" value="0.17592592592592593" />
         <entry key="PolyvLiveUI/src/main/res/layout/polyv_cloudclass_controller_land.xml" value="0.13518518518518519" />
         <entry key="PolyvLiveUI/src/main/res/layout/polyv_cloudclass_controller_port.xml" value="0.296875" />
@@ -21,6 +22,7 @@
         <entry key="app/src/main/res/drawable/bg_btn_fff6f3_ffece5_radius_8_gradient_filling.xml" value="0.40572916666666664" />
         <entry key="app/src/main/res/drawable/bg_btn_yellow_gray_radius_20_gradient_filling.xml" value="0.2675925925925926" />
         <entry key="app/src/main/res/drawable/bg_enable_btn_selector.xml" value="0.3994871794871795" />
+        <entry key="app/src/main/res/drawable/bg_pink_round.xml" value="0.40572916666666664" />
         <entry key="app/src/main/res/drawable/bg_radius_12_btn_d9f7d9_filling.xml" value="0.3994871794871795" />
         <entry key="app/src/main/res/drawable/bg_radius_12_btn_eaf4fe_filling.xml" value="0.40572916666666664" />
         <entry key="app/src/main/res/drawable/bg_radius_16_btn_blue.xml" value="0.1" />
