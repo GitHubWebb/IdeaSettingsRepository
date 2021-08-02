@@ -134,6 +134,7 @@
         <entry key="app/src/main/res/layout/activity_reim_month.xml" value="0.296875" />
         <entry key="app/src/main/res/layout/activity_reim_order_detail.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_reim_order_list.xml" value="0.3182291666666667" />
+        <entry key="app/src/main/res/layout/activity_reimbursement_apply_list.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_reimbursement_apply_order_check.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_reimbursement_edit_image.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_reimbursement_list.xml" value="0.390625" />
