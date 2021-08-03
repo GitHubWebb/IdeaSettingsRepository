@@ -2,7 +2,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="../../../../../layout/custom_preview.xml" value="1.0" />
+        <entry key="../../../../../layout/custom_preview.xml" value="0.4107692307692308" />
         <entry key="../../../.gradle/caches/transforms-2/files-2.1/257e62fd4656df427f6017a60a603f5c/jetified-frameLibraryWidget-2.0.30-androidx/res/layout/fl_activity_mult_image_select.xml" value="0.10989583333333333" />
         <entry key="../../../.gradle/caches/transforms-2/files-2.1/38b0e86079f707da70f5e847e1526f49/jetified-im_kit-4.0.3.14/res/layout/rc_ac_file_manager.xml" value="0.25" />
         <entry key="../../../.gradle/caches/transforms-2/files-2.1/81d5aaaaa45fabd472b833385c6a46a6/jetified-frameLibraryJpush-0.0.6-SNAPSHOT/res/layout/fl_activity_mult_image_select.xml" value="0.11018518518518519" />
@@ -54,6 +54,7 @@
         <entry key="app/src/main/res/drawable/gray_stroke_blue_r_bg.xml" value="0.3994871794871795" />
         <entry key="app/src/main/res/drawable/hotel_coupon_choose_selector.xml" value="0.40572916666666664" />
         <entry key="app/src/main/res/drawable/hotel_search_bg.xml" value="0.3994871794871795" />
+        <entry key="app/src/main/res/drawable/issue_content_corner_bg.xml" value="0.40572916666666664" />
         <entry key="app/src/main/res/drawable/login_input_bg.xml" value="0.40572916666666664" />
         <entry key="app/src/main/res/drawable/my_complete_info_bg.xml" value="0.3411458333333333" />
         <entry key="app/src/main/res/drawable/myorder_red_btn.xml" value="0.40572916666666664" />
@@ -213,6 +214,7 @@
         <entry key="app/src/main/res/layout/include_home_search.xml" value="0.11510416666666666" />
         <entry key="app/src/main/res/layout/include_line.xml" value="0.11510416666666666" />
         <entry key="app/src/main/res/layout/include_pickerview_topbar_old.xml" value="0.390625" />
+        <entry key="app/src/main/res/layout/include_radius_8_tv_iv.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/include_section_item.xml" value="0.11510416666666666" />
         <entry key="app/src/main/res/layout/inclue_picker_time.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/inclued_picker_time.xml" value="0.390625" />
