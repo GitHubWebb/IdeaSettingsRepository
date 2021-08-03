@@ -212,6 +212,8 @@
         <entry key="app/src/main/res/layout/include_line.xml" value="0.11510416666666666" />
         <entry key="app/src/main/res/layout/include_pickerview_topbar_old.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/include_section_item.xml" value="0.11510416666666666" />
+        <entry key="app/src/main/res/layout/inclue_picker_time.xml" value="0.390625" />
+        <entry key="app/src/main/res/layout/inclued_picker_time.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/item_businessorder_current.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/item_chat_img_layout.xml" value="0.159375" />
         <entry key="app/src/main/res/layout/item_chat_layout.xml" value="0.159375" />
@@ -265,6 +267,7 @@
         <entry key="app/src/main/res/layout/layout_title.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/layout_view_split.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/pickerview_options_old.xml" value="0.390625" />
+        <entry key="app/src/main/res/layout/pickerview_time_left_top.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/pickerview_time_old.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/pickerview_type_old.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/pop_approval_person_info_alert.xml" value="0.22135416666666666" />
