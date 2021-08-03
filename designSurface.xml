@@ -2,7 +2,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="../../../../../layout/custom_preview.xml" value="0.21927083333333333" />
+        <entry key="../../../../../layout/custom_preview.xml" value="1.0" />
         <entry key="../../../.gradle/caches/transforms-2/files-2.1/257e62fd4656df427f6017a60a603f5c/jetified-frameLibraryWidget-2.0.30-androidx/res/layout/fl_activity_mult_image_select.xml" value="0.10989583333333333" />
         <entry key="../../../.gradle/caches/transforms-2/files-2.1/38b0e86079f707da70f5e847e1526f49/jetified-im_kit-4.0.3.14/res/layout/rc_ac_file_manager.xml" value="0.25" />
         <entry key="../../../.gradle/caches/transforms-2/files-2.1/81d5aaaaa45fabd472b833385c6a46a6/jetified-frameLibraryJpush-0.0.6-SNAPSHOT/res/layout/fl_activity_mult_image_select.xml" value="0.11018518518518519" />
@@ -241,6 +241,7 @@
         <entry key="app/src/main/res/layout/item_video_doc_list.xml" value="0.23229166666666667" />
         <entry key="app/src/main/res/layout/item_video_doc_thumb.xml" value="0.2287179487179487" />
         <entry key="app/src/main/res/layout/item_video_layout.xml" value="0.159375" />
+        <entry key="app/src/main/res/layout/layout_basepickerview_old.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/layout_camera_or_gallery.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/layout_car_empty_data.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/layout_car_rental_title.xml" value="0.390625" />
@@ -263,6 +264,7 @@
         <entry key="app/src/main/res/layout/layout_search_order.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/layout_title.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/layout_view_split.xml" value="0.390625" />
+        <entry key="app/src/main/res/layout/pickerview_options_old.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/pickerview_time_old.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/pickerview_type_old.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/pop_approval_person_info_alert.xml" value="0.22135416666666666" />
