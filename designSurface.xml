@@ -194,6 +194,7 @@
         <entry key="app/src/main/res/layout/fg_phone_list.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/fl_activity_mult_image_select.xml" value="0.11510416666666666" />
         <entry key="app/src/main/res/layout/fragment_lecture.xml" value="0.159375" />
+        <entry key="app/src/main/res/layout/fragment_office_order_not_complete.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/fragment_reim_train_add.xml" value="0.296875" />
         <entry key="app/src/main/res/layout/fragment_tiling.xml" value="0.159375" />
         <entry key="app/src/main/res/layout/frgmt_account_info.xml" value="0.5" />
@@ -255,6 +256,7 @@
         <entry key="app/src/main/res/layout/layout_car_rental_title.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/layout_chailv.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/layout_complete_info.xml" value="0.390625" />
+        <entry key="app/src/main/res/layout/layout_empty_business.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/layout_gender_picker.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/layout_home_load_resouse_error.xml" value="0.17864583333333334" />
         <entry key="app/src/main/res/layout/layout_hotel_detail_popwindow_roominfo_xy.xml" value="0.221875" />
