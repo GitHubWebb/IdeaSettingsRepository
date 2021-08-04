@@ -75,6 +75,8 @@
         <entry key="app/src/main/res/drawable/travelbusiness_order_button_bg.xml" value="0.40572916666666664" />
         <entry key="app/src/main/res/drawable/vc_del.xml" value="0.40572916666666664" />
         <entry key="app/src/main/res/drawable/vc_eye_hide.xml" value="0.3994871794871795" />
+        <entry key="app/src/main/res/drawable/vc_room_pause.xml" value="0.31197916666666664" />
+        <entry key="app/src/main/res/drawable/vc_room_play.xml" value="0.31197916666666664" />
         <entry key="app/src/main/res/drawable/verifycode_bg_click.xml" value="0.23697916666666666" />
         <entry key="app/src/main/res/drawable/verifycode_stroke.xml" value="0.23697916666666666" />
         <entry key="app/src/main/res/drawable/white_bg.xml" value="0.3994871794871795" />
