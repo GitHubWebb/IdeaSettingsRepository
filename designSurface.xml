@@ -238,6 +238,7 @@
         <entry key="app/src/main/res/layout/item_my_order.xml" value="0.11510416666666666" />
         <entry key="app/src/main/res/layout/item_my_order_type.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/item_notifi_comment.xml" value="0.2388888888888889" />
+        <entry key="app/src/main/res/layout/item_office_order_not_completed.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/item_person_feature_module.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/item_poverty_list.xml" value="0.296875" />
         <entry key="app/src/main/res/layout/item_rank_child.xml" value="0.390625" />
