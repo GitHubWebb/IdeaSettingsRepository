@@ -198,6 +198,7 @@
         <entry key="app/src/main/res/layout/fg_phone_list.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/fl_activity_mult_image_select.xml" value="0.11510416666666666" />
         <entry key="app/src/main/res/layout/fragment_lecture.xml" value="0.159375" />
+        <entry key="app/src/main/res/layout/fragment_office_order_complete.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/fragment_office_order_not_complete.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/fragment_reim_train_add.xml" value="0.296875" />
         <entry key="app/src/main/res/layout/fragment_tiling.xml" value="0.159375" />
