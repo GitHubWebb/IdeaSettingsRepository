@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="269" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="已经设置过标题&#10;" />
+      <item value="已经设置过" />
       <item value="出差类型" />
       <item value="笔&#10;" />
       <item value="bi" />
@@ -54,8 +56,6 @@
       <item value="禁用全局网络&#10;" />
       <item value="禁用全局" />
       <item value="禁用quan'ju" />
-      <item value="issue&#10;" />
-      <item value="issue" />
     </histories>
     <option name="languageScores">
       <map>
