@@ -105,7 +105,7 @@
         <entry key="app/src/main/res/layout/activity_complete_personal_info.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_complete_temp_personal_info.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_custom_issue_categories.xml" value="0.390625" />
-        <entry key="app/src/main/res/layout/activity_data_select.xml" value="0.3182291666666667" />
+        <entry key="app/src/main/res/layout/activity_data_select.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_doc_live2.xml" value="0.159375" />
         <entry key="app/src/main/res/layout/activity_emergency_green.xml" value="0.125" />
         <entry key="app/src/main/res/layout/activity_feedback_list.xml" value="0.390625" />
@@ -148,7 +148,7 @@
         <entry key="app/src/main/res/layout/activity_reim_day.xml" value="0.3182291666666667" />
         <entry key="app/src/main/res/layout/activity_reim_month.xml" value="0.296875" />
         <entry key="app/src/main/res/layout/activity_reim_order_detail.xml" value="0.390625" />
-        <entry key="app/src/main/res/layout/activity_reim_order_list.xml" value="0.3182291666666667" />
+        <entry key="app/src/main/res/layout/activity_reim_order_list.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_reimbursement_apply_list.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_reimbursement_apply_order_check.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_reimbursement_edit_image.xml" value="0.390625" />

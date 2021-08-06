@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="269" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="'llSearchBeginDate' was of the wrong type" />
       <item value="字段描述&#10;" />
       <item value="允许切换界面&#10;" />
       <item value="允许切换" />
@@ -55,7 +56,6 @@
       <item value="账户yuan'q" />
       <item value="zh" />
       <item value="禁用&#10;" />
-      <item value="Statue" />
     </histories>
     <option name="languageScores">
       <map>
