@@ -6,6 +6,12 @@
     <option name="newTranslationDialogY" value="269" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="设置当前页回传时间格式&#10;" />
+      <item value="设置当前页回传格式&#10;" />
+      <item value="设置当前ye回传格式&#10;" />
+      <item value="设置当前回传格式&#10;" />
+      <item value="设置dang'qi" />
+      <item value="set Cur Back Format" />
       <item value="'llSearchBeginDate' was of the wrong type" />
       <item value="字段描述&#10;" />
       <item value="允许切换界面&#10;" />
@@ -50,12 +56,6 @@
       <item value="submit" />
       <item value="指纹登录" />
       <item value="注销" />
-      <item value="注销账户" />
-      <item value="账户安全&#10;" />
-      <item value="账户yuan'quan" />
-      <item value="账户yuan'q" />
-      <item value="zh" />
-      <item value="禁用&#10;" />
     </histories>
     <option name="languageScores">
       <map>
@@ -69,6 +69,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627960298000" />
+    <option name="lastTrimTime" value="1628475922926" />
   </component>
 </application>
