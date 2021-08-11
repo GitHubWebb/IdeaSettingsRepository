@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="269" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="month" />
+      <item value="mooth" />
       <item value="Certificate Type Wheel Options" />
       <item value="Array Wheel Adapter" />
       <item value="Numeric Wheel Adapter" />
@@ -54,8 +56,6 @@
       <item value="arrow" />
       <item value="Rv Preview Activity" />
       <item value="服务协议&#10;" />
-      <item value="fu'wu" />
-      <item value="confir" />
     </histories>
     <option name="languageScores">
       <map>
