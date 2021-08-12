@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="269" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="once" />
+      <item value="init Src Mat" />
       <item value="PRO URL" />
       <item value="month" />
       <item value="mooth" />
@@ -54,8 +56,6 @@
       <item value="Custom Marquee Text View" />
       <item value="加密&#10;" />
       <item value="灰色&#10;" />
-      <item value="arrow" />
-      <item value="Rv Preview Activity" />
     </histories>
     <option name="languageScores">
       <map>
