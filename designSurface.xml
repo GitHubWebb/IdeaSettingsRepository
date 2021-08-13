@@ -154,6 +154,7 @@
         <entry key="app/src/main/res/layout/activity_reim_order_list.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_reimbursement_apply_list.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_reimbursement_apply_order_check.xml" value="0.390625" />
+        <entry key="app/src/main/res/layout/activity_reimbursement_camer_coner.xml" value="0.221875" />
         <entry key="app/src/main/res/layout/activity_reimbursement_edit_image.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_reimbursement_list.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_reimbursement_submit_order.xml" value="0.390625" />
