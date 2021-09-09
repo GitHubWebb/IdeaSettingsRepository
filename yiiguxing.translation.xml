@@ -6,9 +6,35 @@
     <option name="newTranslationDialogY" value="269" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="Annex Adapter" />
-      <item value="Handy Grid View" />
-      <item value="Custom Linear Layout" />
+      <item value="Picker" />
+      <item value="水平滚动" />
+      <item value="水平" />
+      <item value="水平&#10;" />
+      <item value="shui'p" />
+      <item value="shui" />
+      <item value="shu" />
+      <item value="shuop" />
+      <item value="s" />
+      <item value="控制水平移动" />
+      <item value="控制shuo" />
+      <item value="once" />
+      <item value="init Src Mat" />
+      <item value="PRO URL" />
+      <item value="month" />
+      <item value="mooth" />
+      <item value="Certificate Type Wheel Options" />
+      <item value="Array Wheel Adapter" />
+      <item value="Numeric Wheel Adapter" />
+      <item value="reset the size of the text Let it can fully display" />
+      <item value="is Appoint Year Moth" />
+      <item value="设置当前页回传时间格式&#10;" />
+      <item value="设置当前页回传格式&#10;" />
+      <item value="设置当前ye回传格式&#10;" />
+      <item value="设置当前回传格式&#10;" />
+      <item value="设置dang'qi" />
+      <item value="set Cur Back Format" />
+      <item value="'llSearchBeginDate' was of the wrong type" />
+      <item value="字段描述&#10;" />
       <item value="允许切换界面&#10;" />
       <item value="允许切换" />
       <item value="云企鹅" />
@@ -30,32 +56,6 @@
       <item value="Passport Info Activity" />
       <item value="Gender Picker Popup" />
       <item value="Picker Gender Popup" />
-      <item value="duration" />
-      <item value="show As Drop Down" />
-      <item value="show At Location" />
-      <item value="协议&#10;" />
-      <item value="申请中&#10;" />
-      <item value="bg btn enable" />
-      <item value="bg btn disabled" />
-      <item value="Multi Auto Complete Text View" />
-      <item value="Custom Marquee Text View" />
-      <item value="加密&#10;" />
-      <item value="灰色&#10;" />
-      <item value="arrow" />
-      <item value="Rv Preview Activity" />
-      <item value="服务协议&#10;" />
-      <item value="fu'wu" />
-      <item value="confir" />
-      <item value="阅读确认&#10;" />
-      <item value="mine shaft" />
-      <item value="submit" />
-      <item value="指纹登录" />
-      <item value="注销" />
-      <item value="注销账户" />
-      <item value="账户安全&#10;" />
-      <item value="账户yuan'quan" />
-      <item value="账户yuan'q" />
-      <item value="zh" />
     </histories>
     <option name="languageScores">
       <map>
@@ -69,6 +69,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630052451128" />
+    <option name="lastTrimTime" value="1628475922926" />
   </component>
 </application>

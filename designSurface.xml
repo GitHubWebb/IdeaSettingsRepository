@@ -9,6 +9,7 @@
         <entry key="../../../.gradle/caches/transforms-2/files-2.1/81d5aaaaa45fabd472b833385c6a46a6/jetified-frameLibraryJpush-0.0.6-SNAPSHOT/res/layout/fl_fragment_multi_image.xml" value="0.1" />
         <entry key="../../../.gradle/caches/transforms-2/files-2.1/8f8595871ea5ef6cdc268ef8f5bbfdcd/Android-PickerView-4.1.9/res/layout/include_pickerview_topbar.xml" value="0.390625" />
         <entry key="../../../.gradle/caches/transforms-2/files-2.1/8f8595871ea5ef6cdc268ef8f5bbfdcd/Android-PickerView-4.1.9/res/layout/pickerview_options.xml" value="0.390625" />
+        <entry key="../../../.gradle/caches/transforms-2/files-2.1/8f8595871ea5ef6cdc268ef8f5bbfdcd/Android-PickerView-4.1.9/res/layout/pickerview_time.xml" value="0.221875" />
         <entry key="../../../.gradle/caches/transforms-2/files-2.1/b7d8afe4838afcbc61ab43429a42ad8a/jetified-frameLibraryWidget-2.0.35-androidx/res/layout/fl_activity_mult_image_select.xml" value="0.10989583333333333" />
         <entry key="../../../Library/Android/sdk/platforms/android-27/data/res/layout/preference_category.xml" value="0.390625" />
         <entry key="../../../Library/Android/sdk/platforms/android-27/data/res/layout/simple_gallery_item.xml" value="0.390625" />
@@ -65,7 +66,7 @@
         <entry key="app/src/main/res/drawable/red_round_bg.xml" value="0.3333333333333333" />
         <entry key="app/src/main/res/drawable/register_getverifycode_bg.xml" value="0.40572916666666664" />
         <entry key="app/src/main/res/drawable/round_red_bg_360.xml" value="0.40572916666666664" />
-        <entry key="app/src/main/res/drawable/search_bg.xml" value="0.23645833333333333" />
+        <entry key="app/src/main/res/drawable/search_bg.xml" value="0.40572916666666664" />
         <entry key="app/src/main/res/drawable/select_btn_del_account_selector.xml" value="0.4046875" />
         <entry key="app/src/main/res/drawable/selector_eye.xml" value="0.3994871794871795" />
         <entry key="app/src/main/res/drawable/selector_eye_pwd.xml" value="0.40572916666666664" />
@@ -91,6 +92,7 @@
         <entry key="app/src/main/res/layout/activity_approved_data_select.xml" value="0.296875" />
         <entry key="app/src/main/res/layout/activity_avatar.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_big_image.xml" value="0.3182291666666667" />
+        <entry key="app/src/main/res/layout/activity_bill_money_zs_item.xml" value="0.20208333333333334" />
         <entry key="app/src/main/res/layout/activity_bus_home_page.xml" value="0.15833333333333333" />
         <entry key="app/src/main/res/layout/activity_bus_list.xml" value="0.38958333333333334" />
         <entry key="app/src/main/res/layout/activity_business_travel_apply_for_no_travel.xml" value="0.4477681182133924" />
@@ -105,7 +107,7 @@
         <entry key="app/src/main/res/layout/activity_complete_personal_info.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_complete_temp_personal_info.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_custom_issue_categories.xml" value="0.390625" />
-        <entry key="app/src/main/res/layout/activity_data_select.xml" value="0.3182291666666667" />
+        <entry key="app/src/main/res/layout/activity_data_select.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_doc_live2.xml" value="0.159375" />
         <entry key="app/src/main/res/layout/activity_emergency_green.xml" value="0.125" />
         <entry key="app/src/main/res/layout/activity_feedback_list.xml" value="0.390625" />
@@ -143,14 +145,16 @@
         <entry key="app/src/main/res/layout/activity_public_account.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_push_msg.xml" value="0.3182291666666667" />
         <entry key="app/src/main/res/layout/activity_push_msg_item.xml" value="0.3182291666666667" />
+        <entry key="app/src/main/res/layout/activity_qrcode_login.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_quick_receiving_address.xml" value="0.15833333333333333" />
         <entry key="app/src/main/res/layout/activity_rank_list.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_reim_day.xml" value="0.3182291666666667" />
         <entry key="app/src/main/res/layout/activity_reim_month.xml" value="0.296875" />
         <entry key="app/src/main/res/layout/activity_reim_order_detail.xml" value="0.390625" />
-        <entry key="app/src/main/res/layout/activity_reim_order_list.xml" value="0.3182291666666667" />
+        <entry key="app/src/main/res/layout/activity_reim_order_list.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_reimbursement_apply_list.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_reimbursement_apply_order_check.xml" value="0.390625" />
+        <entry key="app/src/main/res/layout/activity_reimbursement_camer_coner.xml" value="0.221875" />
         <entry key="app/src/main/res/layout/activity_reimbursement_edit_image.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_reimbursement_list.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/activity_reimbursement_submit_order.xml" value="0.390625" />
@@ -197,7 +201,9 @@
         <entry key="app/src/main/res/layout/dialog_ticket_repeat_alert.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/empty_view.xml" value="0.23229166666666667" />
         <entry key="app/src/main/res/layout/error_view.xml" value="0.23229166666666667" />
+        <entry key="app/src/main/res/layout/fg_home_index_item.xml" value="0.221875" />
         <entry key="app/src/main/res/layout/fg_home_index_new.xml" value="0.38461538461538464" />
+        <entry key="app/src/main/res/layout/fg_home_merber_service_item.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/fg_my.xml" value="0.38461538461538464" />
         <entry key="app/src/main/res/layout/fg_phone_list.xml" value="0.390625" />
         <entry key="app/src/main/res/layout/fl_activity_mult_image_select.xml" value="0.11510416666666666" />
