@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="269" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="set Header View As Flow" />
+      <item value="Cannot call this method while RecyclerView is computing a layout or scrolling " />
       <item value="立即展示" />
       <item value="立即zha" />
       <item value="li'ji" />
@@ -54,8 +56,6 @@
       <item value="筛选展示状态" />
       <item value="筛选展示状态&#10;" />
       <item value="筛选" />
-      <item value="筛选z" />
-      <item value="x" />
     </histories>
     <option name="languageScores">
       <map>
