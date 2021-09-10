@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="269" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="disable Load More If Not Full Page" />
       <item value="set Header View As Flow" />
       <item value="Cannot call this method while RecyclerView is computing a layout or scrolling " />
       <item value="立即展示" />
@@ -55,7 +56,6 @@
       <item value="set Filter Display Status" />
       <item value="筛选展示状态" />
       <item value="筛选展示状态&#10;" />
-      <item value="筛选" />
     </histories>
     <option name="languageScores">
       <map>
